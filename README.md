@@ -1,5 +1,7 @@
 # Geiger-Detector-STS-5
 Simple detector board for SBM-20 or STS-5
+Repository contains electrical circuit and Gerbers files.
+
 
 Technical Specifications:
 
@@ -13,8 +15,8 @@ Technical Specifications:
 
 • PCB Dimensions: 115 x 75 mm
 
-• Piezo Sound Indicatio
-n
+• Piezo Sound Indication
+
 • Led Indication
 
 • Easy High Voltage Adjustments with a regular 1M/10M Multimeter
